@@ -1,0 +1,6 @@
+pefile==2024.8.26
+capstone==5.0.9
+PySide6==6.12.0
+reportlab==5.1.0
+pytest==9.2.0
+pyinstaller==6.22.3

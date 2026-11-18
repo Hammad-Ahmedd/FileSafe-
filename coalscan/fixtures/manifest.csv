@@ -1,0 +1,67 @@
+name,sha256,source_author,architecture,expected_status,expected_rule_ids,set,permission,test_outcome
+r01_pos.exe,86aca72ae43fee1986881169f61ab5d82ffa2ff9a86eed55a859f36728ecadd4,CoalScan Fixture Generator,x64,analyzed,R01,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r01_neg.exe,8b145da9ac594ebf83b6451800b2a61e87e3f4a2538bbbe6bc2962b505fd80b5,CoalScan Fixture Generator,x64,analyzed,,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r02_pos.exe,35a5b092795456b504bbc7f5b7734a7d163c80dced622c3bdb4f2826c8e63ef2,CoalScan Fixture Generator,x64,analyzed,R02,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r02_neg.exe,8b145da9ac594ebf83b6451800b2a61e87e3f4a2538bbbe6bc2962b505fd80b5,CoalScan Fixture Generator,x64,analyzed,,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r03_pos.exe,fc549617e13dfb4fa483d4c61f95dfcca95b66b415afb16add2a7953fdddf793,CoalScan Fixture Generator,x64,analyzed,R03,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r03_neg.exe,8b145da9ac594ebf83b6451800b2a61e87e3f4a2538bbbe6bc2962b505fd80b5,CoalScan Fixture Generator,x64,analyzed,,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r04_pos.exe,36117ee4aa9cd149db7ea445ae0ebb87f9ee0ca0d8c943aaa5fbdb90c3f52550,CoalScan Fixture Generator,x64,analyzed,R04,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r04_neg.exe,8b145da9ac594ebf83b6451800b2a61e87e3f4a2538bbbe6bc2962b505fd80b5,CoalScan Fixture Generator,x64,analyzed,,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r05_pos.exe,c73f5531a13c041de5f07250c8827e9fdc5b34b1bc3adc9c3a9aa5734d80fcc5,CoalScan Fixture Generator,x64,analyzed,R05,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r05_neg.exe,98224cc46bd73d3dd963f16450e8aa094b7317e9c5004392f40ba83eda23cc50,CoalScan Fixture Generator,x64,analyzed,,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r06_pos.exe,ebe95a2c37fc32b71cfe6df9812ebcd760b8ba22d4d187e985b135e0902e300a,CoalScan Fixture Generator,x64,analyzed,R06,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r06_neg.exe,8b145da9ac594ebf83b6451800b2a61e87e3f4a2538bbbe6bc2962b505fd80b5,CoalScan Fixture Generator,x64,analyzed,,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r07_pos.exe,15ea9c80f6fe6b1da2fae44f5a8391062c262772edfc8d53d9e87fbed6ed293d,CoalScan Fixture Generator,x64,analyzed,R07,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r07_neg.exe,8b145da9ac594ebf83b6451800b2a61e87e3f4a2538bbbe6bc2962b505fd80b5,CoalScan Fixture Generator,x64,analyzed,,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r08_pos.exe,48de303f2c34b60897c4f13d1affcf03a7893a749fd47dba9c28bb17b1e80696,CoalScan Fixture Generator,x64,analyzed,R08,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r08_neg.exe,8b145da9ac594ebf83b6451800b2a61e87e3f4a2538bbbe6bc2962b505fd80b5,CoalScan Fixture Generator,x64,analyzed,,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r09_pos.exe,cc8cf4d0d9ad9a53897edd122a994a58d4d42e93a0398a3af43b50784efa80f6,CoalScan Fixture Generator,x64,analyzed,R09,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r09_neg.exe,8b59eeb9e7c09ae85bfe1a89a2e0f6a13a2a5e86919ea5f2e29c6e23e6bb37c5,CoalScan Fixture Generator,x64,analyzed,,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r10_pos.exe,7e91e1522bc62c98d8b444d71498c103191eafbee1c71b8169e39598903ab3fe,CoalScan Fixture Generator,x64,analyzed,R10,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r10_neg.exe,8b145da9ac594ebf83b6451800b2a61e87e3f4a2538bbbe6bc2962b505fd80b5,CoalScan Fixture Generator,x64,analyzed,,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r11_pos.exe,8f3925bf5666582411a02299bc62b6cf3ec2d550c3d2282755ea222950f5cb48,CoalScan Fixture Generator,x64,analyzed,R11,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r11_neg.exe,8b145da9ac594ebf83b6451800b2a61e87e3f4a2538bbbe6bc2962b505fd80b5,CoalScan Fixture Generator,x64,analyzed,,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r12_pos.exe,0763a3fc50f23f48632654598f91c614817adbf6c72f47c78a61bd7ef88ed378,CoalScan Fixture Generator,x64,analyzed,R12,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r12_neg.exe,8b145da9ac594ebf83b6451800b2a61e87e3f4a2538bbbe6bc2962b505fd80b5,CoalScan Fixture Generator,x64,analyzed,,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r13_pos.exe,34e169fe80639591ad85b67701a573157b7b655bc321fe461b693aa8e864f9aa,CoalScan Fixture Generator,x64,analyzed,R13,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r13_neg.exe,8b145da9ac594ebf83b6451800b2a61e87e3f4a2538bbbe6bc2962b505fd80b5,CoalScan Fixture Generator,x64,analyzed,,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r14_pos.exe,c42d0aecdbda5693f6815171ff8d050b6ff7e4f6471f2058cc7e2c6d193297ce,CoalScan Fixture Generator,x64,analyzed,R14,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+r14_neg.exe,8b145da9ac594ebf83b6451800b2a61e87e3f4a2538bbbe6bc2962b505fd80b5,CoalScan Fixture Generator,x64,analyzed,,rule,Team-generated synthetic benign fixture (CSC-203),PASS
+type_native_x86.exe,765d6606942e2da8401ade5363296bfa7eb991a9a6a8f14f17ec7b3a2cea89df,CoalScan Fixture Generator,x86,analyzed,,router,Team-generated synthetic benign fixture (CSC-203),PASS
+type_native_x64.exe,8b145da9ac594ebf83b6451800b2a61e87e3f4a2538bbbe6bc2962b505fd80b5,CoalScan Fixture Generator,x64,analyzed,,router,Team-generated synthetic benign fixture (CSC-203),PASS
+type_dll_no_ep.dll,b15259676a0d968dac5eeca32f1f218c49793197f68a94b5d7bf948594f45838,CoalScan Fixture Generator,x64,analyzed,,router,Team-generated synthetic benign fixture (CSC-203),PASS
+type_dll_with_ep.dll,62a42c4746e2d32df8a662afc0edd0c0ceedda17388d6dac4ab2806cf207c1c1,CoalScan Fixture Generator,x64,analyzed,,router,Team-generated synthetic benign fixture (CSC-203),PASS
+type_managed_dotnet.exe,ada6a23a670edfa91b988885168397980d8d6185430802bb29e6cf3c799169a3,CoalScan Fixture Generator,x86,"analyzed (managed .NET, limited)",R14,router,Team-generated synthetic benign fixture (CSC-203),PASS
+type_native_driver.sys,22fc079e10f31e0ea11c4e88827d904b7a88e2cd2f3d6fb15e43045576eca34d,CoalScan Fixture Generator,x64,"analyzed (driver, limited)",,router,Team-generated synthetic benign fixture (CSC-203),PASS
+type_driver_candidate.sys,8b145da9ac594ebf83b6451800b2a61e87e3f4a2538bbbe6bc2962b505fd80b5,CoalScan Fixture Generator,x64,driver candidate,,router,Team-generated synthetic benign fixture (CSC-203),PASS
+type_arm64.exe,e23028641afaa88c616b1bd3294d8231388fb19dac13bf0aeba13775b84f7823,CoalScan Fixture Generator,ARM64,unsupported architecture,,router,Team-generated synthetic benign fixture (CSC-203),PASS
+type_not_pe.exe,937991d02a2a81be284bf8cbbad068bb993f4294d419e1c6120f2f0a13b84f51,CoalScan Fixture Generator,-,not a PE file,,router,Team-generated synthetic benign fixture (CSC-203),PASS
+type_skipped.txt,f2f6df037711776297150a03ae6b634d50c6d26ff22465bc03d958e3469c8874,CoalScan Fixture Generator,-,skipped (extension or limit),,router,Team-generated synthetic benign fixture (CSC-203),PASS
+cal_benign_01_console_signed.exe,8b145da9ac594ebf83b6451800b2a61e87e3f4a2538bbbe6bc2962b505fd80b5,CoalScan Fixture Generator,x64,analyzed,,calibration,Team-generated synthetic benign fixture (CSC-203),PASS
+cal_benign_02_console_unsigned.exe,c42d0aecdbda5693f6815171ff8d050b6ff7e4f6471f2058cc7e2c6d193297ce,CoalScan Fixture Generator,x64,analyzed,R14,calibration,Team-generated synthetic benign fixture (CSC-203),PASS
+cal_benign_03_crt_runtime.exe,5d8b8f323e0d1d1b5b74217a5beebb248a4c039375cd96388d9aaa85fa4182c6,CoalScan Fixture Generator,x64,analyzed,R01;R02;R05;R06,calibration,Team-generated synthetic benign fixture (CSC-203),PASS
+cal_benign_04_plugin_host.exe,9f05a0761a068cdb7934883bfee826294a2b0b4ec8d1108a052a2d401ee60461,CoalScan Fixture Generator,x64,analyzed,R05;R12,calibration,Team-generated synthetic benign fixture (CSC-203),PASS
+cal_benign_05_updater_client.exe,790e65bb4de6295d7a2ef01d8304ed783f0142211baed161171e90564745bd9f,CoalScan Fixture Generator,x64,analyzed,R07;R14,calibration,Team-generated synthetic benign fixture (CSC-203),PASS
+cal_benign_06_gui_x86.exe,3dce603cc04d4dd150eefbbf445e82079e43ccb6a19dbef2ac42e43603008b55,CoalScan Fixture Generator,x86,analyzed,,calibration,Team-generated synthetic benign fixture (CSC-203),PASS
+cal_benign_07_math_dll.dll,6390aa6992c9e158ed69d6a3e922db5912a1802a0301e8010663583de95142cc,CoalScan Fixture Generator,x64,analyzed,R14,calibration,Team-generated synthetic benign fixture (CSC-203),PASS
+cal_benign_08_dotnet_hello.exe,ada6a23a670edfa91b988885168397980d8d6185430802bb29e6cf3c799169a3,CoalScan Fixture Generator,x86,"analyzed (managed .NET, limited)",R14,calibration,Team-generated synthetic benign fixture (CSC-203),PASS
+hold_benign_01_cli_tool.exe,a7afcf9eae410f13d02d4f5d36f7cddb9aa9c229317f591b0806dbc97e5dce8f,CoalScan Fixture Generator,x64,analyzed,R14,heldout,Team-generated synthetic benign fixture (CSC-203),PASS
+hold_benign_02_signed_service.exe,af8069c0ed3d753341983fd5d4e9e0fb1be304c8600d6649ddc917527e9d0d85,CoalScan Fixture Generator,x64,analyzed,,heldout,Team-generated synthetic benign fixture (CSC-203),PASS
+hold_benign_03_tls_runtime.exe,d9fe0c3f2cfec3389f944aad6d1a7349c7b97a0abbe22639bf6bbd516ff7ef5e,CoalScan Fixture Generator,x64,analyzed,R01;R13,heldout,Team-generated synthetic benign fixture (CSC-203),PASS
+hold_benign_04_launcher.exe,4ecf7f197927aaa34ee3aaae717ab97327b3e1c7c4f6e6ad729e320ca262c12e,CoalScan Fixture Generator,x64,analyzed,R06;R12;R14,heldout,Team-generated synthetic benign fixture (CSC-203),PASS
+hold_benign_05_minimal_native.exe,abe63038d366895867b7e85373047dfb1b1054f5ccdfd6d964eb602938c8b775,CoalScan Fixture Generator,x64,analyzed,R08;R14,heldout,Team-generated synthetic benign fixture (CSC-203),PASS
+hold_benign_06_jit_helper_dll.dll,43e512dc7f06e8eb183009ea5619c5a30f9f2d19e497e470ea4401cac8c6b65e,CoalScan Fixture Generator,x64,analyzed,R01;R02,heldout,Team-generated synthetic benign fixture (CSC-203),PASS
+hold_benign_07_dotnet_signed.exe,44c6962e77cdcc26dc4f257e4f535f505ee0907419bca5d4b6c66b444cf1ffe2,CoalScan Fixture Generator,x86,"analyzed (managed .NET, limited)",,heldout,Team-generated synthetic benign fixture (CSC-203),PASS
+hold_benign_08_compressed_media_app.exe,8f57011b39a67cbb4566dc02b3593a11d48bcea9153f232a73a087f5be3ef810,CoalScan Fixture Generator,x64,analyzed,R01;R09,heldout,Team-generated synthetic benign fixture (CSC-203),PASS
+malformed_01_zero_byte.exe,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,CoalScan Fixture Generator,-,malformed,,malformed,Team-generated synthetic benign fixture (CSC-203),PASS
+malformed_02_trunc_dos.exe,7ccd9bfcb65bb96e2e9e0603b91e790701508ead48aec4da8a2dd4b563b0576e,CoalScan Fixture Generator,-,malformed,,malformed,Team-generated synthetic benign fixture (CSC-203),PASS
+malformed_03_bad_lfanew.exe,453d4f3eca5f3985c14b6abb1d6b4390934e114cd82368c8d4c974d6c000c7af,CoalScan Fixture Generator,-,malformed,,malformed,Team-generated synthetic benign fixture (CSC-203),PASS
+malformed_04_trunc_coff.exe,d2799a021bd9bd307dd7f21fae246992e49314e751f7c346949392c53f9ca7a4,CoalScan Fixture Generator,-,malformed,,malformed,Team-generated synthetic benign fixture (CSC-203),PASS
+malformed_05_trunc_opt.exe,cc4057e9bcd16420e30961359ad93ae378a270894448ea2ab1f93168ff3e6450,CoalScan Fixture Generator,x64,malformed,,malformed,Team-generated synthetic benign fixture (CSC-203),PASS
+malformed_06_bad_opt_magic.exe,6fc7268a561ee80dd1e63287a9ecf59d1813e42337768561f1e6b9afd5e56d0f,CoalScan Fixture Generator,x64,malformed,,malformed,Team-generated synthetic benign fixture (CSC-203),PASS
+malformed_07_trunc_sectable.exe,1cf1f4692c39fd07124ece3ca356ae7b55dc90118f96018b2385155e3a6afff1,CoalScan Fixture Generator,x64,malformed,,malformed,Team-generated synthetic benign fixture (CSC-203),PASS
+malformed_08_too_many_sections.exe,96e4d688afa1e9a9c414efc0238014ab13b8ec89aeb3a5c2cf38ad8df484e5b4,CoalScan Fixture Generator,x64,malformed,,malformed,Team-generated synthetic benign fixture (CSC-203),PASS
+malformed_09_invalid_sec_raw_offset.exe,81a0003b5c5d127a2fa811becb7868669cff168e431fd5de1a679aaaf920690d,CoalScan Fixture Generator,x64,malformed,,malformed,Team-generated synthetic benign fixture (CSC-203),PASS
+malformed_10_huge_virtual_size.exe,8eb3edac8b45c69252080aa460a2d573291218b3d5840ceebefce25fe8de165d,CoalScan Fixture Generator,x64,malformed,,malformed,Team-generated synthetic benign fixture (CSC-203),PASS
+malformed_11_bad_import_rva.exe,01ee88c37749dde219a6fab56dc9a5cb7a6bd9cef7388975dc197d250e985b8e,CoalScan Fixture Generator,x64,malformed,,malformed,Team-generated synthetic benign fixture (CSC-203),PASS
+malformed_12_bitflips_seed203.exe,7371bf4208ad1b627de8b56214e2e17492763362735abbdaea4dd3c00732ad5e,CoalScan Fixture Generator,x64,malformed,,malformed,Team-generated synthetic benign fixture (CSC-203),PASS
